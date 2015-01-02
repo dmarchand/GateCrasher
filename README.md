@@ -1,4 +1,0 @@
-GateCrasher
-===========
-
-What is it

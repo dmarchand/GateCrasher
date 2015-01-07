@@ -15,4 +15,8 @@ public class PlayerModel : MonoBehaviour {
 	void Update () {
 	
 	}
+
+	public void AddScore(int points) {
+		CurrentScore += (int)(points * CurrentMultiplier);
+	}
 }
